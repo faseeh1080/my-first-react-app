@@ -13,5 +13,5 @@ If you are developing a production application, we recommend using TypeScript an
 
 # Common Commands
 
-Install all third party dependencies: `npm install`
+Install all third party dependencies: `npm install`  
 Run: `npm run dev`
